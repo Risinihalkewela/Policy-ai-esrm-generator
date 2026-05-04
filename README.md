@@ -14,7 +14,7 @@
 
 ---
 
-## 🔎 What This Project Demonstrates (Recruiter Snapshot)
+## 🔎 What This Project Demonstrates
 
 * Built a **full-stack AI application** (Flask + LLM integration)
 * Designed a **domain-specific NLP pipeline** for ESG/ESRM policies
